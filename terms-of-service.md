@@ -27,7 +27,16 @@ The information provided by the Service is on an "as is" basis, and no warrantie
 The Service may collect limited data such as your postcode to provide localized information. No personally identifiable information (PII) is collected or stored unless you voluntarily provide it. For more information, please review our Privacy Policy [Link to Privacy Policy].
 
 ## 8. Image Usage
-All images displayed by this chatbot are used with permission from Pxhere, Wikimedia Commons, Flickr, Pickpik, Open Clipart, and DronePics Wales, unless otherwise noted. We respect copyright laws and are committed to ensuring that all content is sourced legally. 
+All images displayed by this chatbot are used with permission from the following sources, unless otherwise noted:
+- [Pxhere](https://pxhere.com)
+- [Wikimedia Commons](https://commons.wikimedia.org)
+- [Flickr](https://www.flickr.com)
+- [Pickpik](https://www.pickpik.com)
+- [Open Clipart](https://openclipart.org)
+- [DronePics Wales](https://dronepics.wales/ewloe/)
+
+We respect copyright laws and are committed to ensuring that all content is sourced legally. If you have any questions or concerns regarding the usage of images, please contact us at **[jodeewu2@gmail.com](mailto:jodeewu2@gmail.com)**.
+
 
 ## 9. Cookies
 This chatbot uses cookies to enhance functionality and improve the user experience. Cookies may be used to store session data and localized responses. For more details on how we use cookies, please read our Cookie Policy [Link to Cookie Policy].
