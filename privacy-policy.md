@@ -21,6 +21,7 @@ We use images in our chatbot to enhance user experience. All images displayed by
 - [Pickpik](https://www.pickpik.com)
 - [Open Clipart](https://openclipart.org)
 - [DronePics Wales](https://dronepics.wales/ewloe/)
+
 We are committed to respecting copyright and ensuring that our content is sourced legally. No personally identifiable information is associated with these images unless explicitly stated. 
 
 If you have any concerns about your privacy, please contact us at jodeewu2@gmail.com.
