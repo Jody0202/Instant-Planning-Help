@@ -24,7 +24,7 @@ The information provided by the Service is on an "as is" basis, and no warrantie
 **Limitation of Liability**: We shall not be liable for any loss, damage, or legal consequences arising from the use of the Service. By using this Service, you acknowledge that you are doing so at your own discretion and risk.
 
 ## 7. Data Collection and Privacy
-The Service may collect limited data such as your postcode to provide localized information. No personally identifiable information (PII) is collected or stored unless you voluntarily provide it. For more information, please review our Privacy Policy [https://jody0202.github.io/Instant-Planning-Help/privacy-policy.html].
+The Service may collect limited data such as your postcode to provide localized information. No personally identifiable information (PII) is collected or stored unless you voluntarily provide it. For more information, please review our [Privacy Policy](https://jody0202.github.io/Instant-Planning-Help/privacy-policy.html).
 
 ## 8. Image Usage
 All images displayed by this chatbot are used with permission from the following sources, unless otherwise noted:
