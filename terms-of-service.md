@@ -26,17 +26,20 @@ The information provided by the Service is on an "as is" basis, and no warrantie
 ## 7. Data Collection and Privacy
 The Service may collect limited data such as your postcode to provide localized information. No personally identifiable information (PII) is collected or stored unless you voluntarily provide it. For more information, please review our Privacy Policy [Link to Privacy Policy].
 
-## 8. Cookies
+## 8. Image Usage
+All images displayed by this chatbot are used with permission from Pxhere, Wikimedia Commons, Flickr, Pickpik, Open Clipart, and DronePics Wales, unless otherwise noted. We respect copyright laws and are committed to ensuring that all content is sourced legally. 
+
+## 9. Cookies
 This chatbot uses cookies to enhance functionality and improve the user experience. Cookies may be used to store session data and localized responses. For more details on how we use cookies, please read our Cookie Policy [Link to Cookie Policy].
 
-## 9. Third-Party Links and APIs
+## 10. Third-Party Links and APIs
 The chatbot may utilize third-party APIs (e.g., OpenStreetMap, government data APIs) to retrieve and present information. We do not control these third-party services and are not responsible for their content or data practices. Use of third-party services is governed by their respective terms and policies.
 
-## 10. Modifications to the Service
+## 11. Modifications to the Service
 We reserve the right to modify, suspend, or discontinue the Service, or any part of it, at any time without notice. We are not liable to you or any third party for any modification, suspension, or discontinuation of the Service.
 
-## 11. Governing Law
+## 12. Governing Law
 These terms and conditions are governed by and construed in accordance with the laws of England and Wales. Any disputes arising out of or relating to these Terms or the Service will be resolved in the courts of England and Wales.
 
-## 12. Contact Information
+## 13. Contact Information
 For any questions or concerns regarding these Terms of Service, please contact us at [jodeewu2@gmail.com].
