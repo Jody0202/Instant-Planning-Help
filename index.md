@@ -39,7 +39,9 @@ title: Instant-Planning-Help
 </style>
 
 <!-- Logo centered -->
-<img src="logo.png" alt="Instant Planning Help Logo" style="width: 100px; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
+<a href="https://jody0202.github.io/Instant-Planning-Help/">
+    <img src="logo.png" alt="Instant Planning Help Logo" style="width: 100px; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
+</a>
 
 <h1>Legal Documents for Instant Planning Help</h1>
 
