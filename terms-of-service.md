@@ -39,7 +39,7 @@ We respect copyright laws and are committed to ensuring that all content is sour
 
 
 ## 9. Cookies
-This chatbot uses cookies to enhance functionality and improve the user experience. Cookies may be used to store session data and localized responses. For more details on how we use cookies, please read our [Cookie Policy] (https://jody0202.github.io/Instant-Planning-Help/cookie-policy.html).
+This chatbot uses cookies to enhance functionality and improve the user experience. Cookies may be used to store session data and localized responses. For more details on how we use cookies, please read our [Cookie Policy](https://jody0202.github.io/Instant-Planning-Help/cookie-policy.html).
 
 ## 10. Third-Party Links and APIs
 The chatbot may utilize third-party APIs (e.g., OpenStreetMap, government data APIs) to retrieve and present information. We do not control these third-party services and are not responsible for their content or data practices. Use of third-party services is governed by their respective terms and policies.
