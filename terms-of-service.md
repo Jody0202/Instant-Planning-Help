@@ -1,8 +1,3 @@
----
-layout: default
-title: Instant-Planning-Help
----
-
 <!-- Inline CSS for styling -->
 <style>
     body {
@@ -12,7 +7,7 @@ title: Instant-Planning-Help
         max-width: 800px;
         margin: auto;
         padding: 20px;
-        text-align: center;  /* Center alignment */
+        text-align: left;  /* Left alignment for body */
     }
     h1 {
         color: white;
@@ -22,9 +17,12 @@ title: Instant-Planning-Help
     .logo {
         width: 100px;
         margin-bottom: 20px;
+        display: block;  /* Center logo */
+        margin-left: auto;
+        margin-right: auto;
     }
     .content-section {
-        text-align: left;  /* Content aligned left */
+        text-align: center;  /* Center alignment for content section */
         margin-top: 20px;
     }
     .content-item {
@@ -47,7 +45,7 @@ title: Instant-Planning-Help
 </style>
 
 <!-- Logo wrapped in a link to the home page -->
-<a href=".index">
+<a href="index.md">
     <img src="logo.png" alt="Instant Planning Help Logo" class="logo">
 </a>
 
