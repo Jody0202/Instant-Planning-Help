@@ -12,16 +12,18 @@ title: Instant-Planning-Help
         max-width: 800px;
         margin: auto;
         padding: 20px;
-        text-align: left;
+        text-align: center;  /* Center alignment for body text */
     }
     h1 {
         color: white;
         font-size: 28px;
         margin-top: 20px;
+        text-align: center;  /* Center alignment for h1 */
     }
     ul {
         list-style-type: none;
         padding: 0;
+        text-align: center;  /* Center alignment for the list */
     }
     ul li {
         margin: 10px 0;
@@ -36,17 +38,19 @@ title: Instant-Planning-Help
     }
 </style>
 
-<!-- Logo -->
-<img src="logo.png" alt="Instant Planning Help Logo" style="width: 100px; margin-bottom: 20px;">
+<!-- Logo centered -->
+<img src="logo.png" alt="Instant Planning Help Logo" style="width: 100px; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
 
-# Legal Documents for Instant Planning Help
+<h1>Legal Documents for Instant Planning Help</h1>
 
-Welcome to the legal documents section. Below, you can find important information related to the use of our chatbot service.
+<p style="text-align: left;">Welcome to the legal documents section. Below, you can find important information related to the use of our chatbot service.</p>
 
-- [Disclaimer](disclaimer.md)
-- [Terms of Service](terms-of-service.md)
-- [Privacy Policy](privacy-policy.md)
-- [Cookie Policy](cookie-policy.md)
-- [FAQ](FAQ.md)
+<ul>
+    <li><a href="disclaimer.md">Disclaimer</a></li>
+    <li><a href="terms-of-service.md">Terms of Service</a></li>
+    <li><a href="privacy-policy.md">Privacy Policy</a></li>
+    <li><a href="cookie-policy.md">Cookie Policy</a></li>
+    <li><a href="FAQ.md">FAQ</a></li>
+</ul>
 
-Thank you for using Instant Planning Help! If you have any questions, feel free to reach out.
+<p style="text-align: left;">Thank you for using Instant Planning Help! If you have any questions, feel free to reach out.</p>
