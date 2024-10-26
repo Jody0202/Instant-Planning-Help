@@ -106,6 +106,8 @@ This chatbot uses cookies to enhance functionality and improve the user experien
 ## 10. Third-Party Links and APIs
 The chatbot may utilize third-party APIs (e.g., OpenStreetMap, government data APIs) to retrieve and present information. We do not control these third-party services and are not responsible for their content or data practices. Use of third-party services is governed by their respective terms and policies.
 
+In particular, our chatbot provides a link to the Planning Portal for informational purposes only, under the Open Government Licence v3.0. Access to the Planning Portal and its content is governed by the Open Government Licence v3.0, which can be reviewed here.
+
 ## 11. Modifications to the Service
 We reserve the right to modify, suspend, or discontinue the Service, or any part of it, at any time without notice. We are not liable to you or any third party for any modification, suspension, or discontinuation of the Service.
 
