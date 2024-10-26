@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page Title - Instant Planning Help
+title: Instant Planning Help
 ---
 
 <!-- Inline CSS for styling -->
@@ -12,7 +12,7 @@ title: Page Title - Instant Planning Help
         max-width: 800px;
         margin: auto;
         padding: 20px;
-        text-align: center;
+        text-align: left;  /* Left alignment */
     }
     h1 {
         color: white;
@@ -24,7 +24,7 @@ title: Page Title - Instant Planning Help
         margin-bottom: 20px;
     }
     .content-section {
-        text-align: left;
+        text-align: left;  /* Content aligned left */
         margin-top: 20px;
     }
     .content-item {
@@ -46,8 +46,10 @@ title: Page Title - Instant Planning Help
     }
 </style>
 
-<!-- Logo and Title -->
-<img src="logo.png" alt="Instant Planning Help Logo" class="logo">
+<!-- Logo wrapped in a link to the home page -->
+<a href=".index">
+    <img src="logo.png" alt="Instant Planning Help Logo" class="logo">
+</a>
 
 # Instant Planning Help
 
