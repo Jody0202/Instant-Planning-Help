@@ -35,8 +35,7 @@ All images displayed by this chatbot are used with permission from the following
 - [Open Clipart](https://openclipart.org)
 - [DronePics Wales](https://dronepics.wales/ewloe/)
 
-We respect copyright laws and are committed to ensuring that all content is sourced legally. If you have any questions or concerns regarding the usage of images, please contact us at **[jodeewu2@gmail.com](mailto:jodeewu2@gmail.com)**.
-
+We respect copyright laws and are committed to ensuring that all content is sourced legally.
 
 ## 9. Cookies
 This chatbot uses cookies to enhance functionality and improve the user experience. Cookies may be used to store session data and localized responses. For more details on how we use cookies, please read our [Cookie Policy](https://jody0202.github.io/Instant-Planning-Help/cookie-policy.html).
@@ -51,4 +50,4 @@ We reserve the right to modify, suspend, or discontinue the Service, or any part
 These terms and conditions are governed by and construed in accordance with the laws of England and Wales. Any disputes arising out of or relating to these Terms or the Service will be resolved in the courts of England and Wales.
 
 ## 13. Contact Information
-For any questions or concerns regarding these Terms of Service, please contact us at [jodeewu2@gmail.com].
+For any questions or concerns regarding these Terms of Service, please contact us at **[jodeewu2@gmail.com](mailto:jodeewu2@gmail.com)**.
