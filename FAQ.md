@@ -35,7 +35,10 @@ title: Instant-Planning-Help
         text-align: center;  /* Center alignment for Terms of Service */
         margin-top: 40px;  /* Add some space above */
     }
-    .content-item {
+    .faq-section {
+        margin-top: 20px;  /* Add some space above the FAQ section */
+    }
+    .faq-item {
         margin-bottom: 15px;
         padding: 10px;
         border-bottom: 1px solid #ccc;
@@ -51,6 +54,12 @@ title: Instant-Planning-Help
     .link {
         color: white;
         text-decoration: underline;
+    }
+    hr {
+        border: none; /* Remove default border */
+        height: 1px; /* Set height of the line */
+        background-color: #ccc; /* Change color of the line */
+        margin: 20px 0; /* Add margin around the line */
     }
 </style>
 
@@ -72,24 +81,28 @@ Welcome to the FAQ section! Here you’ll find answers to common questions about
         Permitted development allows certain home improvements, like small extensions or loft conversions, without needing full planning permission. This depends on your project meeting specific size and design rules.
     </div>
   </div>
+  <hr>
   <div class="faq-item">
     <div class="question">How do I know if my project falls under Permitted Development?</div>
     <div class="answer">
         You can check if your project qualifies by reviewing the permitted development technical guidance or using this chatbot to guide you through the process based on your project details.
     </div>
   </div>
+  <hr>
   <div class="faq-item">
     <div class="question">Do Permitted Development rights apply everywhere?</div>
     <div class="answer">
         Permitted development rights are restricted in certain areas, like conservation areas or for listed buildings. Always check with your local authority if you're unsure.
     </div>
   </div>
+  <hr>
   <div class="faq-item">
     <div class="question">When do I need full planning permission?</div>
     <div class="answer">
         You’ll need planning permission for larger projects, like two-storey extensions or significant alterations to the front of your home.
     </div>
   </div>
+  <hr>
   <div class="faq-item">
     <div class="question">How do I find my local planning authority?</div>
     <div class="answer">
