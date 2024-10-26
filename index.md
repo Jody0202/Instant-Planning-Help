@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Legal Documents - Instant Planning Help</title>
+    <title>Instant Planning Help - Home</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #009cde; /* Matching the blue shade from your logo */
+            background-color: #009cde; /* Blue shade from the logo */
             color: white; /* White text for readability */
             max-width: 800px;
             margin: auto;
@@ -20,7 +20,7 @@
             margin-top: 20px;
         }
         .logo {
-            width: 100px; /* Adjust size as needed */
+            width: 100px; /* Adjust logo size as needed */
             margin-bottom: 20px;
         }
         ul {
