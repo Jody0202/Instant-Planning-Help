@@ -34,7 +34,6 @@ title: FAQ - Instant Planning Help
     }
     .question {
         font-weight: bold;
-        cursor: pointer;
         color: white;
     }
     .answer {
@@ -48,7 +47,7 @@ title: FAQ - Instant Planning Help
 </style>
 
 <!-- Logo -->
-<img src="Instant planning help.png" alt="Instant Planning Help Logo" class="logo">
+<img src="logo.png" alt="Instant Planning Help Logo" class="logo">
 
 # Frequently Asked Questions
 
