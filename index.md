@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Instant Planning Help - Home
+title: Instant Planning Help
 ---
 
 <!-- Inline CSS for styling -->
 <style>
     body {
-        background-color: #009cde; /* Blue shade from the logo */
-        color: white; /* White text for readability */
+        background-color: #009cde;
+        color: white;
         font-family: Arial, sans-serif;
         max-width: 800px;
         margin: auto;
@@ -18,10 +18,6 @@ title: Instant Planning Help - Home
         color: white;
         font-size: 28px;
         margin-top: 20px;
-    }
-    .logo {
-        width: 100px; /* Adjust logo size as needed */
-        margin-bottom: 20px;
     }
     ul {
         list-style-type: none;
@@ -41,7 +37,7 @@ title: Instant Planning Help - Home
 </style>
 
 <!-- Logo -->
-<img src="logo.png" alt="Instant Planning Help Logo" class="logo">
+<img src="logo.png" alt="Instant Planning Help Logo" style="width: 100px; margin-bottom: 20px;">
 
 # Legal Documents for Instant Planning Help
 
