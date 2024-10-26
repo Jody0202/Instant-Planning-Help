@@ -6,5 +6,6 @@ Welcome to the legal documents section. Below, you can find important informatio
 - [Terms of Service](terms-of-service.md)
 - [Privacy Policy](privacy-policy.md)
 - [Cookie Policy](cookie-policy.md)
+- [FAQ](FAQ.md)
 
 Thank you for using Instant Planning Help! If you have any questions, feel free to reach out.
