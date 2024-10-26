@@ -41,7 +41,7 @@ title: Instant Planning Help - Home
 </style>
 
 <!-- Logo -->
-<img src="Instant planning help.png" alt="Instant Planning Help Logo" class="logo">
+<img src="logo.png" alt="Instant Planning Help Logo" class="logo">
 
 # Legal Documents for Instant Planning Help
 
