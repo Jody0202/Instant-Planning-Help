@@ -41,7 +41,6 @@ title: Instant-Planning-Help
     .faq-item {
         margin-bottom: 15px;
         padding: 10px;
-        border-bottom: 1px solid #ccc;
     }
     .question {
         font-weight: bold;
@@ -59,7 +58,7 @@ title: Instant-Planning-Help
         border: none; /* Remove default border */
         height: 1px; /* Set height of the line */
         background-color: #ccc; /* Change color of the line */
-        margin: 20px 0; /* Add margin around the line */
+        margin: 10px 0; /* Reduce margin to prevent spacing issues */
     }
 </style>
 
