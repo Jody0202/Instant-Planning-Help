@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instant Planning Help
+title: Instant-Planning-Help
 ---
 
 <!-- Inline CSS for styling -->
