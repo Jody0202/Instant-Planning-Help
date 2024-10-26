@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instant-Planning-Help
+title: Instant Planning Help
 ---
 
 <!-- Inline CSS for styling -->
@@ -54,8 +54,8 @@ title: Instant-Planning-Help
     }
 </style>
 
-<!-- Logo wrapped in a link to the home page -->
-<a href="index.md">
+<!-- Logo wrapped in a link to the specified home page -->
+<a href="https://jody0202.github.io/Instant-Planning-Help/">
     <img src="logo.png" alt="Instant Planning Help Logo" class="logo">
 </a>
 
