@@ -1,33 +1,41 @@
 ---
 layout: default
-title: FAQ - Instant Planning Help
+title: Instant-Planning-Help
 ---
 
 <!-- Inline CSS for styling -->
 <style>
     body {
-        background-color: #009cde; /* Blue shade from the logo */
-        color: white; /* White text for readability */
+        background-color: #009cde;
+        color: white;
         font-family: Arial, sans-serif;
         max-width: 800px;
         margin: auto;
         padding: 20px;
-        text-align: center;
+        text-align: left;  /* Left alignment for body */
     }
     h1 {
-        color: white; /* Title color set to white */
+        color: white;
         font-size: 28px;
         margin-top: 20px;
+        text-align: center;  /* Center alignment for h1 */
     }
     .logo {
-        width: 100px; /* Adjust logo size as needed */
+        width: 100px;
         margin-bottom: 20px;
+        display: block;  /* Center logo */
+        margin-left: auto;
+        margin-right: auto;
     }
-    .faq-section {
-        text-align: left;
+    .content-section {
+        text-align: left;  /* Left alignment for content sections */
         margin-top: 20px;
     }
-    .faq-item {
+    .terms-title {
+        text-align: center;  /* Center alignment for Terms of Service */
+        margin-top: 40px;  /* Add some space above */
+    }
+    .content-item {
         margin-bottom: 15px;
         padding: 10px;
         border-bottom: 1px solid #ccc;
@@ -46,10 +54,14 @@ title: FAQ - Instant Planning Help
     }
 </style>
 
-<!-- Logo -->
-<img src="logo.png" alt="Instant Planning Help Logo" class="logo">
+<!-- Logo wrapped in a link to the specified home page -->
+<a href="https://jody0202.github.io/Instant-Planning-Help/">
+    <img src="logo.png" alt="Instant Planning Help Logo" class="logo">
+</a>
 
-# Instant Planning Help
+<h1>Instant Planning Help</h1>
+
+<h2 class="terms-title">FAQ</h2>
 
 Welcome to the FAQ section! Here you’ll find answers to common questions about Permitted Development.
 
