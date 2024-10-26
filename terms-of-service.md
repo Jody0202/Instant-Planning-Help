@@ -12,7 +12,7 @@ title: Instant-Planning-Help
         max-width: 800px;
         margin: auto;
         padding: 20px;
-        text-align: left;  /* Left alignment */
+        text-align: center;  /* Center alignment */
     }
     h1 {
         color: white;
