@@ -1,3 +1,8 @@
+---
+layout: default
+title: Instant Planning Help
+---
+
 <!-- Inline CSS for styling -->
 <style>
     body {
@@ -13,6 +18,7 @@
         color: white;
         font-size: 28px;
         margin-top: 20px;
+        text-align: center;  /* Center alignment for h1 */
     }
     .logo {
         width: 100px;
@@ -22,8 +28,12 @@
         margin-right: auto;
     }
     .content-section {
-        text-align: center;  /* Center alignment for content section */
+        text-align: left;  /* Left alignment for content sections */
         margin-top: 20px;
+    }
+    .terms-title {
+        text-align: center;  /* Center alignment for Terms of Service */
+        margin-top: 40px;  /* Add some space above */
     }
     .content-item {
         margin-bottom: 15px;
@@ -49,9 +59,9 @@
     <img src="logo.png" alt="Instant Planning Help Logo" class="logo">
 </a>
 
-# Instant Planning Help
+<h1>Instant Planning Help</h1>
 
-# Terms of Service
+<h2 class="terms-title">Terms of Service</h2>
 
 ## 1. Introduction
 Welcome to the Instant Planning Help chatbot ("Service"). This Service is provided to offer general information regarding planning applications and permitted development rights within the UK. By accessing and using this Service, you agree to the following terms and conditions. Please read them carefully.
