@@ -60,7 +60,6 @@ title: Instant-Planning-Help
 </a>
 
 <h1>Instant Planning Help</h1>
-
 <h2 class="terms-title">Privacy Policy</h2>
 
 ## Information We Collect
