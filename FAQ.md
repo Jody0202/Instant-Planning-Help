@@ -1,13 +1,13 @@
 ---
 layout: default
-title: FAQ - Instant Planning Help
+title: Instant Planning Help
 ---
 
 <!-- Inline CSS for styling -->
 <style>
     body {
-        background-color: #009cde; /* Blue shade from the logo */
-        color: white; /* White text for readability */
+        background-color: #009cde;
+        color: white;
         font-family: Arial, sans-serif;
         max-width: 800px;
         margin: auto;
@@ -19,35 +19,26 @@ title: FAQ - Instant Planning Help
         font-size: 28px;
         margin-top: 20px;
     }
-    .logo {
-        width: 100px; /* Adjust logo size as needed */
-        margin-bottom: 20px;
+    ul {
+        list-style-type: none;
+        padding: 0;
     }
-    .faq-section {
-        text-align: left;
-        margin-top: 20px;
+    ul li {
+        margin: 10px 0;
     }
-    .faq-item {
-        margin-bottom: 15px;
-        padding: 10px;
-        border-bottom: 1px solid #ccc;
-    }
-    .question {
+    a {
+        color: white;
+        text-decoration: none;
         font-weight: bold;
-        color: white;
     }
-    .answer {
-        color: white;
-        padding: 10px 0;
-    }
-    .link {
-        color: white;
+    a:hover {
         text-decoration: underline;
     }
 </style>
 
 <!-- Logo -->
-<img src="logo.png" alt="Instant Planning Help Logo" class="logo">
+<img src="logo.png" alt="Instant Planning Help Logo" style="width: 100px; margin-bottom: 20px;">
+
 
 # Frequently Asked Questions
 
