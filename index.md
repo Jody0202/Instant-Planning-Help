@@ -47,8 +47,6 @@ title: Instant-Planning-Help
 
 <p style="text-align: left;">Welcome to the legal documents section. Below, you can find important information related to the use of our chatbot service.</p>
 
-Welcome to the legal documents section. Below, you can find important information related to the use of our chatbot service.
-
 - [Disclaimer](disclaimer.md)
 - [Terms of Service](terms-of-service.md)
 - [Privacy Policy](privacy-policy.md)
