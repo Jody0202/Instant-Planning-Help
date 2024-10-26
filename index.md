@@ -42,6 +42,7 @@ title: Instant-Planning-Help
 # Legal Documents for Instant Planning Help
 
 Welcome to the legal documents section. Below, you can find important information related to the use of our chatbot service.
+        text-align: left;
 
 - [Disclaimer](disclaimer.md)
 - [Terms of Service](terms-of-service.md)
