@@ -75,23 +75,23 @@ Welcome to the FAQ section! Here you’ll find answers to common questions about
 
 <div class="faq-section">
   <div class="faq-item">
-    <div class="question">What is Permitted Development?</div>
+    <div class="question">What is Permitted Development Rights?</div>
     <div class="answer">
-        Permitted development allows certain home improvements, like small extensions or loft conversions, without needing full planning permission. This depends on your project meeting specific size and design rules.
+        Permitted Development Rights allow certain home improvements, like small extensions or loft conversions, without needing full planning permission. This depends on your project meeting specific size and design rules.
     </div>
   </div>
   <hr>
   <div class="faq-item">
-    <div class="question">How do I know if my project falls under Permitted Development?</div>
+    <div class="question">How do I know if my project falls under Permitted Development Rights?</div>
     <div class="answer">
         You can check if your project qualifies by reviewing the permitted development technical guidance or using this chatbot to guide you through the process based on your project details.
     </div>
   </div>
   <hr>
   <div class="faq-item">
-    <div class="question">Do Permitted Development rights apply everywhere?</div>
+    <div class="question">Do Permitted Development Rights apply everywhere?</div>
     <div class="answer">
-        Permitted development rights are restricted in certain areas, like conservation areas or for listed buildings. Always check with your local authority if you're unsure.
+        Permitted Development Rights are restricted in certain areas, like conservation areas or for listed buildings. Always check with your local authority if you're unsure.
     </div>
   </div>
   <hr>
