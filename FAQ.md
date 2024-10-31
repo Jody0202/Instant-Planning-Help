@@ -84,7 +84,7 @@ Welcome to the FAQ section! Here you’ll find answers to common questions about
   <div class="faq-item">
     <div class="question">How do I know if my project falls under Permitted Development Rights?</div>
     <div class="answer">
-        You can check if your project qualifies by reviewing the <a href="[https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/830643/190910_Tech_Guide_for_publishing.pdf#:~:text=The%20guidance%20set%20out%20below%20gives%20an%20explanation,only%20and%20these%20are%20not%20drawn%20to%20scale.]" target="_blank" class="link">Permitted development rights for householders Technical Guidance</a>
+        You can check if your project qualifies by reviewing the <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/830643/190910_Tech_Guide_for_publishing.pdf#:~:text=The%20guidance%20set%20out%20below%20gives%20an%20explanation,only%20and%20these%20are%20not%20drawn%20to%20scale" target="_blank" class="link">Permitted development rights for householders Technical Guidance</a>
          or using this chatbot to guide you through the process based on your project details.
     </div>
   </div>
